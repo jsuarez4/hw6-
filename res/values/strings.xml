@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW6</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_details">Photo Details</string>
+    <string name="title_activity_detail">Photo Details</string>
+    <string name="ptitle">Photo Title</string>
+    <string name="pdate">Publish Date</string>
+    <string name="pOwner">Owner name</string>
+    <string name="title_activity_test">Photo Details</string>
+
+</resources>
